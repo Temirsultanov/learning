@@ -1,1 +1,2 @@
-# learning
+g
+So strange VIM
